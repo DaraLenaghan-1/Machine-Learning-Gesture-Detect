@@ -1,2 +1,5 @@
 # Ignore the hagdata folder
 hagdata/
+
+# Ignore the saved_models folde
+saved_models/
