@@ -3,3 +3,6 @@ hagdata/
 
 # Ignore the saved_models folde
 saved_models/
+
+# Ignore the data folder
+data/
